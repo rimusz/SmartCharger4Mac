@@ -1,0 +1,1 @@
+# smartcharger4mac
